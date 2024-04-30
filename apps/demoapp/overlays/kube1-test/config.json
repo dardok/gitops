@@ -1,0 +1,11 @@
+{
+  "appName": "demoapp",
+  "userGivenName": "demoapp",
+  "destNamespace": "default",
+  "destServer": "https://dell-r720-3-nrl:6443",
+  "srcPath": "apps/demoapp/overlays/kube1-test",
+  "srcRepoURL": "https://github.com/dardok/gitops.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
